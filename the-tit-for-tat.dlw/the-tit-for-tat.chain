@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1670
+slug  : the-tit-for-tat
+seal  : 1f6f15f2f64f7394dc02ab65417b4f795772c69bb6c56cbe6b1940ab9a3673a7
+prev  : 516642528786d5238af87740b04e8aa37eb3bc849dca61913ffd2bba17e6d9f5
+link  : 3478c297bdcde1648e7bd519cc4fccaf0ef2c7d20f39948cb21f83b7620e81ec
+head  : 3478c297bdcde1648e7bd519cc4fccaf0ef2c7d20f39948cb21f83b7620e81ec
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
